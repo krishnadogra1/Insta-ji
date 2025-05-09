@@ -26,5 +26,5 @@ python ig.py
 ### One line command:
 visit : <a href="https://github.com/krishnadogra1/">https://github.com/krishnadogra1/</a>
 
-#thanks instaloader
-#great thanks Achik-Ahmed🌈
+ #     thanks instaloader
+#    great thanks Achik-Ahmed🌈
