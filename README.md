@@ -1,5 +1,5 @@
-# IG-OSINT-V2
-A simple Instgram Osint tool to gather instgram user informations.
+# IG
+A simple Instgram tool to gather instgram user informations.
 https://github.com/krishnadogra1
 ## INSTALLATION COMMANDS
 ```
@@ -25,3 +25,6 @@ python ig.py
 ```
 ### One line command:
 visit : <a href="https://github.com/krishnadogra1/">https://github.com/krishnadogra1/</a>
+
+#thanks instaloader
+#great thanks Achik-Ahmed🌈
