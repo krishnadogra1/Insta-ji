@@ -15,13 +15,13 @@ termux-setup-storage
 git clone https://github.com/krishnadogra1/Insta-ji.git
 ```
 ```
-cd IG-OSINT-V2
+cd Insta-ji
 ```
 ```
 pip install instaloader
 ```
 ```
-python Insta.py
+python ig.py
 ```
 ### One line command:
 visit : <a href="https://github.com/krishnadogra1/">https://github.com/krishnadogra1/</a>
